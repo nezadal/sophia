@@ -1,5 +1,5 @@
 # Sophia
-Bee Hive Scale with GSM data tranfer to ThingSpeak server, run on battery with solar panel charging. Bee hive scale monitors bee hive weight, temperature and humidity and voltage of battery. These values are measured hourly and trasfered and stored to ThingSpeak server. 
+Bee Hive Scale with GSM data tranfer to ThingSpeak server, runs on battery with solar panel charging. Bee Hive Scale monitors bee hive weight, temperature, humidity and voltage of battery. These values are measured hourly, trasfered and stored to ThingSpeak server. 
 
 Hardware:
 
